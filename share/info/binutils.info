@@ -43,7 +43,7 @@ Introduction
 ************
 
 This brief manual contains documentation for the GNU binary utilities
-(UBERTC-6.x.x) version 2.27.0:
+(ZION959-UBERTC-6.x.x) version 2.27.0:
 
    This document is distributed under the terms of the GNU Free
 Documentation License version 1.3.  A copy of the license is included in
@@ -5049,34 +5049,34 @@ Binutils Index
 
 Tag Table:
 Node: Top1893
-Node: ar3605
-Node: ar cmdline6739
-Node: ar scripts17072
-Node: nm22758
-Node: objcopy32667
-Node: objdump69446
-Node: ranlib92856
-Node: size94455
-Node: strings97431
-Node: strip101803
-Node: c++filt109382
-Ref: c++filt-Footnote-1114196
-Node: addr2line114302
-Node: nlmconv118831
-Node: windmc121410
-Node: windres125067
-Node: dlltool131426
-Node: def file format144423
-Node: readelf146953
-Node: elfedit154644
-Node: Common Options156896
-Node: Selecting the Target System157930
-Node: Target Selection158862
-Node: Architecture Selection160843
-Node: Reporting Bugs161671
-Node: Bug Criteria162450
-Node: Bug Reporting163003
-Node: GNU Free Documentation License169873
-Node: Binutils Index195033
+Node: ar3613
+Node: ar cmdline6747
+Node: ar scripts17080
+Node: nm22766
+Node: objcopy32675
+Node: objdump69454
+Node: ranlib92864
+Node: size94463
+Node: strings97439
+Node: strip101811
+Node: c++filt109390
+Ref: c++filt-Footnote-1114204
+Node: addr2line114310
+Node: nlmconv118839
+Node: windmc121418
+Node: windres125075
+Node: dlltool131434
+Node: def file format144431
+Node: readelf146961
+Node: elfedit154652
+Node: Common Options156904
+Node: Selecting the Target System157938
+Node: Target Selection158870
+Node: Architecture Selection160851
+Node: Reporting Bugs161679
+Node: Bug Criteria162458
+Node: Bug Reporting163011
+Node: GNU Free Documentation License169881
+Node: Binutils Index195041
 
 End Tag Table
