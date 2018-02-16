@@ -2,7 +2,7 @@
 
     It has been auto-edited by fixincludes from:
 
-	"/media/zion/Applications/ToolChains/out/aarch64-linux-android-6.x/arch-arm64/usr/include/linux/a.out.h"
+	"/home/zion369/Android/Uber-Toolchain/out/aarch64-linux-android-6.x/arch-arm64/usr/include/linux/a.out.h"
 
     This had to be done to correct non-standard usages in the
     original, manufacturer supplied header file.  */
