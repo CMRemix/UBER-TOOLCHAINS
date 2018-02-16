@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/media/zion/Applications/ToolChains/out/aarch64-linux-android-7.x/lib/gcc/aarch64-linux-android/7.2.1'
+libdir='/home/zion369/Android/Uber/out/aarch64-linux-android-7.x/lib/gcc/aarch64-linux-android/7.2.1'

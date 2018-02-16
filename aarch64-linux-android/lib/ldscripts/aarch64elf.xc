@@ -7,7 +7,7 @@ OUTPUT_FORMAT("elf64-littleaarch64", "elf64-bigaarch64",
 	      "elf64-littleaarch64")
 OUTPUT_ARCH(aarch64)
 ENTRY(_start)
-SEARCH_DIR("=/media/zion/Applications/ToolChains/out/aarch64-linux-android-7.x/aarch64-linux-android/lib");
+SEARCH_DIR("=/home/zion369/Android/Uber/out/aarch64-linux-android-7.x/aarch64-linux-android/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */

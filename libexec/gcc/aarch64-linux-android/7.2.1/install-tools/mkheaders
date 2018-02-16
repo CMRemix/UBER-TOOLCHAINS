@@ -53,7 +53,7 @@ if [ x$1 != x ] ; then
   prefix=$1
   shift
 else
-  prefix=/media/zion/Applications/ToolChains/out/aarch64-linux-android-7.x
+  prefix=/home/zion369/Android/Uber/out/aarch64-linux-android-7.x
 fi
 
 # Allow for alternate isysroot in which to find headers

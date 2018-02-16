@@ -1,6 +1,6 @@
 This is ld.info, produced by makeinfo version 6.1 from ld.texinfo.
 
-This file documents the GNU linker LD (ZION959-UBERTC-7.x.x) version
+This file documents the GNU linker LD (UBERTC-ZION959-7.x.x) version
 2.27.0.
 
    Copyright (C) 1991-2016 Free Software Foundation, Inc.
@@ -22,7 +22,7 @@ File: ld.info,  Node: Top,  Next: Overview,  Up: (dir)
 LD
 **
 
-This file documents the GNU linker ld (ZION959-UBERTC-7.x.x) version
+This file documents the GNU linker ld (UBERTC-ZION959-7.x.x) version
 2.27.0.
 
    This document is distributed under the terms of the GNU Free

@@ -17,7 +17,7 @@ old_library='libbfd.a'
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/media/zion/Applications/ToolChains/build/binutils-uber/zlib -lz -ldl'
+dependency_libs=' -L/home/zion369/Android/Uber/build/binutils-uber/zlib -lz -ldl'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/media/zion/Applications/ToolChains/out/aarch64-linux-android-7.x/x86_64-linux-gnu/aarch64-linux-android/lib'
+libdir='/home/zion369/Android/Uber/out/aarch64-linux-android-7.x/x86_64-linux-gnu/aarch64-linux-android/lib'
